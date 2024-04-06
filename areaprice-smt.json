@@ -1,0 +1,762 @@
+[
+  {
+    "country": "阿尔巴尼亚",
+    "freightprice": ""
+  },
+  {
+    "country": "阿尔及利亚",
+    "freightprice": ""
+  },
+  {
+    "country": "安哥拉",
+    "freightprice": ""
+  },
+  {
+    "country": "安提瓜和巴布达",
+    "freightprice": ""
+  },
+  {
+    "country": "亚美尼亚",
+    "freightprice": ""
+  },
+  {
+    "country": "阿鲁巴岛",
+    "freightprice": ""
+  },
+  {
+    "country": "澳大利亚",
+    "freightprice": ""
+  },
+  {
+    "country": "巴林",
+    "freightprice": ""
+  },
+  {
+    "country": "白俄罗斯",
+    "freightprice": ""
+  },
+  {
+    "country": "布基纳法索",
+    "freightprice": ""
+  },
+  {
+    "country": "加拿大",
+    "freightprice": ""
+  },
+  {
+    "country": "哥斯达黎加",
+    "freightprice": ""
+  },
+  {
+    "country": "萨尔瓦多",
+    "freightprice": ""
+  },
+  {
+    "country": "赤道几内亚",
+    "freightprice": ""
+  },
+  {
+    "country": "埃塞俄比亚",
+    "freightprice": ""
+  },
+  {
+    "country": "加蓬",
+    "freightprice": ""
+  },
+  {
+    "country": "格鲁吉亚",
+    "freightprice": ""
+  },
+  {
+    "country": "圭亚那",
+    "freightprice": ""
+  },
+  {
+    "country": "冰岛",
+    "freightprice": ""
+  },
+  {
+    "country": "印度尼西亚",
+    "freightprice": ""
+  },
+  {
+    "country": "科特迪瓦",
+    "freightprice": ""
+  },
+  {
+    "country": "日本",
+    "freightprice": ""
+  },
+  {
+    "country": "哈萨克斯坦",
+    "freightprice": ""
+  },
+  {
+    "country": "利比里亚",
+    "freightprice": ""
+  },
+  {
+    "country": "莫桑比克",
+    "freightprice": ""
+  },
+  {
+    "country": "纳米比亚",
+    "freightprice": ""
+  },
+  {
+    "country": "新西兰",
+    "freightprice": ""
+  },
+  {
+    "country": "尼日尔",
+    "freightprice": ""
+  },
+  {
+    "country": "尼日利亚",
+    "freightprice": ""
+  },
+  {
+    "country": "挪威",
+    "freightprice": ""
+  },
+  {
+    "country": "巴基斯坦",
+    "freightprice": ""
+  },
+  {
+    "country": "秘鲁",
+    "freightprice": ""
+  },
+  {
+    "country": "波多黎各(美)",
+    "freightprice": ""
+  },
+  {
+    "country": "留尼汪岛",
+    "freightprice": ""
+  },
+  {
+    "country": "圣卢西亚",
+    "freightprice": ""
+  },
+  {
+    "country": "沙特阿拉伯",
+    "freightprice": ""
+  },
+  {
+    "country": "新加坡",
+    "freightprice": ""
+  },
+  {
+    "country": "圣马丁(荷)",
+    "freightprice": ""
+  },
+  {
+    "country": "所罗门群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "特立尼达和多巴哥",
+    "freightprice": ""
+  },
+  {
+    "country": "土耳其",
+    "freightprice": ""
+  },
+  {
+    "country": "阿拉伯联合酋长国",
+    "freightprice": ""
+  },
+  {
+    "country": "赞比亚",
+    "freightprice": ""
+  },
+  {
+    "country": "奥兰群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "安圭拉岛(英)",
+    "freightprice": ""
+  },
+  {
+    "country": "南极",
+    "freightprice": ""
+  },
+  {
+    "country": "阿根廷",
+    "freightprice": ""
+  },
+  {
+    "country": "阿塞拜疆",
+    "freightprice": ""
+  },
+  {
+    "country": "根西岛(英)",
+    "freightprice": ""
+  },
+  {
+    "country": "百慕大群岛(英)",
+    "freightprice": ""
+  },
+  {
+    "country": "玻利维亚",
+    "freightprice": ""
+  },
+  {
+    "country": "圣诞岛",
+    "freightprice": ""
+  },
+  {
+    "country": "科科斯岛",
+    "freightprice": ""
+  },
+  {
+    "country": "哥伦比亚",
+    "freightprice": ""
+  },
+  {
+    "country": "刚果",
+    "freightprice": ""
+  },
+  {
+    "country": "科克群岛(新)",
+    "freightprice": ""
+  },
+  {
+    "country": "多米尼克国",
+    "freightprice": ""
+  },
+  {
+    "country": "多米尼加共和国",
+    "freightprice": ""
+  },
+  {
+    "country": "厄瓜多尔",
+    "freightprice": ""
+  },
+  {
+    "country": "厄立特里亚",
+    "freightprice": ""
+  },
+  {
+    "country": "爱沙尼亚",
+    "freightprice": ""
+  },
+  {
+    "country": "福克兰群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "加纳",
+    "freightprice": ""
+  },
+  {
+    "country": "几内亚",
+    "freightprice": ""
+  },
+  {
+    "country": "几内亚比绍",
+    "freightprice": ""
+  },
+  {
+    "country": "洪都拉斯",
+    "freightprice": ""
+  },
+  {
+    "country": "马恩岛(英)",
+    "freightprice": ""
+  },
+  {
+    "country": "柬埔寨",
+    "freightprice": ""
+  },
+  {
+    "country": "肯尼亚",
+    "freightprice": ""
+  },
+  {
+    "country": "基里巴斯",
+    "freightprice": ""
+  },
+  {
+    "country": "科威特",
+    "freightprice": ""
+  },
+  {
+    "country": "吉尔吉斯斯坦",
+    "freightprice": ""
+  },
+  {
+    "country": "北马其顿",
+    "freightprice": ""
+  },
+  {
+    "country": "马达加斯加",
+    "freightprice": ""
+  },
+  {
+    "country": "马绍尔群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "密克罗尼西亚(美)",
+    "freightprice": ""
+  },
+  {
+    "country": "蒙特塞拉特岛(英)",
+    "freightprice": ""
+  },
+  {
+    "country": "摩洛哥",
+    "freightprice": ""
+  },
+  {
+    "country": "荷属安的列斯群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "尼加拉瓜",
+    "freightprice": ""
+  },
+  {
+    "country": "纽埃岛(新)",
+    "freightprice": ""
+  },
+  {
+    "country": "诺福克岛(澳)",
+    "freightprice": ""
+  },
+  {
+    "country": "马里亚纳群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "阿曼",
+    "freightprice": ""
+  },
+  {
+    "country": "帕劳(美)",
+    "freightprice": ""
+  },
+  {
+    "country": "巴拉圭",
+    "freightprice": ""
+  },
+  {
+    "country": "卡塔尔",
+    "freightprice": ""
+  },
+  {
+    "country": "摩尔多瓦",
+    "freightprice": ""
+  },
+  {
+    "country": "圣赫勒拿",
+    "freightprice": ""
+  },
+  {
+    "country": "圣克里斯托弗和尼维斯",
+    "freightprice": ""
+  },
+  {
+    "country": "圣皮埃尔岛及密克隆岛",
+    "freightprice": ""
+  },
+  {
+    "country": "圣文森特岛(英)",
+    "freightprice": ""
+  },
+  {
+    "country": "圣马力诺",
+    "freightprice": ""
+  },
+  {
+    "country": "圣多美和普林西比",
+    "freightprice": ""
+  },
+  {
+    "country": "塞舌尔",
+    "freightprice": ""
+  },
+  {
+    "country": "南乔治亚与南桑威奇群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "斯里兰卡",
+    "freightprice": ""
+  },
+  {
+    "country": "斯瓦尔巴群岛(挪)",
+    "freightprice": ""
+  },
+  {
+    "country": "巴哈马国",
+    "freightprice": ""
+  },
+  {
+    "country": "梵蒂冈",
+    "freightprice": ""
+  },
+  {
+    "country": "东帝汶",
+    "freightprice": ""
+  },
+  {
+    "country": "托克劳群岛(新)",
+    "freightprice": ""
+  },
+  {
+    "country": "汤加",
+    "freightprice": ""
+  },
+  {
+    "country": "特克斯和凯科斯群岛(英)",
+    "freightprice": ""
+  },
+  {
+    "country": "图瓦卢",
+    "freightprice": ""
+  },
+  {
+    "country": "坦桑尼亚",
+    "freightprice": ""
+  },
+  {
+    "country": "美国本土外小岛屿",
+    "freightprice": ""
+  },
+  {
+    "country": "乌拉圭",
+    "freightprice": ""
+  },
+  {
+    "country": "乌兹别克斯坦",
+    "freightprice": ""
+  },
+  {
+    "country": "维尔京群岛(英)",
+    "freightprice": ""
+  },
+  {
+    "country": "瓦里斯和富士那群岛(法)",
+    "freightprice": ""
+  },
+  {
+    "country": "西撒哈拉",
+    "freightprice": ""
+  },
+  {
+    "country": "桑给巴尔",
+    "freightprice": ""
+  },
+  {
+    "country": "文莱",
+    "freightprice": ""
+  },
+  {
+    "country": "南苏丹",
+    "freightprice": ""
+  },
+  {
+    "country": "加勒比荷兰",
+    "freightprice": ""
+  },
+  {
+    "country": "布韦岛",
+    "freightprice": ""
+  },
+  {
+    "country": "赫德岛和麦克唐纳群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "英属印度洋领地",
+    "freightprice": ""
+  },
+  {
+    "country": "皮特凯恩群岛",
+    "freightprice": ""
+  },
+  {
+    "country": "法属南部和南极领地",
+    "freightprice": ""
+  },
+  {
+    "country": "阿森松岛",
+    "freightprice": ""
+  },
+  {
+    "country": "圣巴泰勒米岛",
+    "freightprice": ""
+  },
+  {
+    "country": "奥尔德尼岛",
+    "freightprice": ""
+  },
+  {
+    "country": "中国台湾",
+    "freightprice": ""
+  },
+  {
+    "country": "中国香港特别行政区",
+    "freightprice": ""
+  },
+  {
+    "country": "南非",
+    "freightprice": ""
+  },
+  {
+    "country": "毛里求斯",
+    "freightprice": ""
+  },
+  {
+    "country": "佛得角",
+    "freightprice": ""
+  },
+  {
+    "country": "埃及",
+    "freightprice": ""
+  },
+  {
+    "country": "突尼斯",
+    "freightprice": ""
+  },
+  {
+    "country": "津巴布韦",
+    "freightprice": ""
+  },
+  {
+    "country": "马拉维",
+    "freightprice": ""
+  },
+  {
+    "country": "多哥",
+    "freightprice": ""
+  },
+  {
+    "country": "马里",
+    "freightprice": ""
+  },
+  {
+    "country": "乍得",
+    "freightprice": ""
+  },
+  {
+    "country": "黎巴嫩",
+    "freightprice": ""
+  },
+  {
+    "country": "马尔代夫",
+    "freightprice": ""
+  },
+  {
+    "country": "塞尔维亚",
+    "freightprice": ""
+  },
+  {
+    "country": "孟加拉国",
+    "freightprice": ""
+  },
+  {
+    "country": "黑山",
+    "freightprice": ""
+  },
+  {
+    "country": "乌干达",
+    "freightprice": ""
+  },
+  {
+    "country": "法属瓜德罗普岛",
+    "freightprice": ""
+  },
+  {
+    "country": "马提尼克岛",
+    "freightprice": ""
+  },
+  {
+    "country": "法属圭亚那",
+    "freightprice": ""
+  },
+  {
+    "country": "马约特岛",
+    "freightprice": ""
+  },
+  {
+    "country": "博茨瓦纳",
+    "freightprice": ""
+  },
+  {
+    "country": "塞内加尔",
+    "freightprice": ""
+  },
+  {
+    "country": "卢旺达",
+    "freightprice": ""
+  },
+  {
+    "country": "喀麦隆",
+    "freightprice": ""
+  },
+  {
+    "country": "塞浦路斯",
+    "freightprice": ""
+  },
+  {
+    "country": "巴勒斯坦",
+    "freightprice": ""
+  },
+  {
+    "country": "俄罗斯",
+    "freightprice": ""
+  },
+  {
+    "country": "乌克兰",
+    "freightprice": ""
+  },
+  {
+    "country": "美国",
+    "freightprice": ""
+  },
+  {
+    "country": "韩国",
+    "freightprice": ""
+  },
+  {
+    "country": "瑞士",
+    "freightprice": ""
+  },
+  {
+    "country": "波兰",
+    "freightprice": ""
+  },
+  {
+    "country": "奥地利",
+    "freightprice": ""
+  },
+  {
+    "country": "比利时",
+    "freightprice": ""
+  },
+  {
+    "country": "保加利亚",
+    "freightprice": ""
+  },
+  {
+    "country": "捷克",
+    "freightprice": ""
+  },
+  {
+    "country": "丹麦",
+    "freightprice": ""
+  },
+  {
+    "country": "芬兰",
+    "freightprice": ""
+  },
+  {
+    "country": "法国",
+    "freightprice": ""
+  },
+  {
+    "country": "德国",
+    "freightprice": ""
+  },
+  {
+    "country": "希腊",
+    "freightprice": ""
+  },
+  {
+    "country": "匈牙利",
+    "freightprice": ""
+  },
+  {
+    "country": "爱尔兰",
+    "freightprice": ""
+  },
+  {
+    "country": "意大利",
+    "freightprice": ""
+  },
+  {
+    "country": "拉脱维亚",
+    "freightprice": ""
+  },
+  {
+    "country": "立陶宛",
+    "freightprice": ""
+  },
+  {
+    "country": "卢森堡",
+    "freightprice": ""
+  },
+  {
+    "country": "马耳他",
+    "freightprice": ""
+  },
+  {
+    "country": "荷兰",
+    "freightprice": ""
+  },
+  {
+    "country": "葡萄牙",
+    "freightprice": ""
+  },
+  {
+    "country": "罗马尼亚",
+    "freightprice": ""
+  },
+  {
+    "country": "斯洛伐克",
+    "freightprice": ""
+  },
+  {
+    "country": "斯洛文尼亚",
+    "freightprice": ""
+  },
+  {
+    "country": "西班牙",
+    "freightprice": ""
+  },
+  {
+    "country": "瑞典",
+    "freightprice": ""
+  },
+  {
+    "country": "英国",
+    "freightprice": ""
+  },
+  {
+    "country": "克罗地亚",
+    "freightprice": ""
+  },
+  {
+    "country": "巴西",
+    "freightprice": ""
+  },
+  {
+    "country": "以色列",
+    "freightprice": ""
+  },
+  {
+    "country": "墨西哥",
+    "freightprice": ""
+  },
+  {
+    "country": "智利",
+    "freightprice": ""
+  },
+  {
+    "country": "马来西亚",
+    "freightprice": ""
+  },
+  {
+    "country": "泰国",
+    "freightprice": ""
+  },
+  {
+    "country": "越南",
+    "freightprice": ""
+  }
+]
