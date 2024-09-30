@@ -2,8 +2,8 @@
 // @name         Facebook Post
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Fetch text from Facebook element
-// @author       You
+// @description  Facebook Post
+// @author       hanspaul
 // @match        https://www.facebook.com/*
 // @grant        GM_xmlhttpRequest
 // @require      https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js
