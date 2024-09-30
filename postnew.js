@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Facebook Post
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Fetch text from Facebook element
-// @author       You
+// @author       hanspaul
 // @updateURL   https://raw.githubusercontent.com/hanxizu/automa/refs/heads/main/postnew.js
 // @downloadURL https://raw.githubusercontent.com/hanxizu/automa/refs/heads/main/postnew.js
 // @match        https://www.facebook.com/*
