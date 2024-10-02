@@ -14,6 +14,7 @@
 (function () {
     'use strict';
 let facebookurl = 'https://github.com/cs88997/facebook/raw/refs/heads/main/facebookpost.xlsx'
+    let facebook;
 
     async function checkmainelement() {
         const JSamain = 'DIV:nth-of-type(1) > ul > LI:nth-of-type(1) > DIV[data-visualcompletion="ignore-dynamic"] a';
