@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Facebook Post
 // @namespace    http://tampermonkey.net/
-// @version      1.41
+// @version      1.42
 // @description  Fetch text from Facebook element
 // @author       hanspaul
 // @updateURL   https://raw.githubusercontent.com/hanxizu/automa/refs/heads/main/postnew.js
@@ -14,7 +14,7 @@
 (function () {
     'use strict';
 let facebookurl = 'https://github.com/cs88997/facebook/raw/refs/heads/main/facebookpost.xlsx'
-    let facebook11111;
+    let facebook22222;
 
     async function checkmainelement() {
         const JSamain = 'DIV:nth-of-type(1) > ul > LI:nth-of-type(1) > DIV[data-visualcompletion="ignore-dynamic"] a';
