@@ -13,6 +13,7 @@
 
 (function () {
     'use strict';
+let facebookurl = 'https://github.com/cs88997/facebook/raw/refs/heads/main/facebookpost.xlsx'
 
     async function checkmainelement() {
         const JSamain = 'DIV:nth-of-type(1) > ul > LI:nth-of-type(1) > DIV[data-visualcompletion="ignore-dynamic"] a';
@@ -241,7 +242,7 @@
 
     async function getRandomValueFrom() {
 
-        const url = "https://github.com/hanxizu/automa/raw/refs/heads/main/facebookpost.xlsx";
+        const url = facebookurl;
 
 
         try {
@@ -296,7 +297,7 @@
     async function fetchAndConvertXLSX(url) {
         // 用 GM_xmlhttpRequest 读取 XLSX 文件
 
-        //const url = "https://github.com/hanxizu/automa/raw/refs/heads/main/facebookpost.xlsx";
+        //const url = "https://github.com/cs88997/facebook/raw/refs/heads/main/facebookpost.xlsx";
 
 
         async function fetchXLSX(url) {
